@@ -184,7 +184,7 @@ color: var(--blue);
 }    
 
 #lat-long-container{
-    padding-top: 10%;
+    /* padding-top: 10%; */
 }
 
 .lat-long{
@@ -193,17 +193,17 @@ padding-top:7%;
 }
 
 .long-number{
-    padding-top:6%;
     text-align: center;
-    padding-left: 30%;
+    /* padding-left: 30%;
     padding-right:10%;
-
+    padding-top:70%; */
+ transform: translateX(-10px) translateY(70px);
 }
 
 .lat-number{
     text-align: center;
-    padding-left: 10%;
-    padding-right: 30%;
+  transform: translateX(-120px) translateY(10px);
+
 }
 
 .lat{
