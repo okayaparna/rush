@@ -188,25 +188,15 @@ color: var(--blue);
 
 }    
 
-#lat-long-container{
-    /* padding-top: 10%; */
+.lat-number{
+  text-align: center;
+transform: translateX(-180px) translateY(10px);
+
 }
 
 .long-number{
     text-align: center;
-    /* padding-left: 30%;
-    padding-right:10%;
-    padding-top:70%; */
-    /* transform: translateX(-10px) translateY(70px); */
-
-
-}
-
-.lat-number{
-    text-align: center;
-  transform: translateX(-120px) translateY(10px);
-
-
+    transform: translateX(-90px) translateY(60px);
 }
 
 .lat{
