@@ -21,6 +21,10 @@
 
 <!-- general links end here -->
 
+<script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer.min.js"></script>
+
+
+
 	</head>
 	<body>
     <header>
@@ -33,17 +37,11 @@
       <p><input type="text" id="name" placeholder="type here"></p>
 
 <div>
-  <model-viewer src="entr__m_tro.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1">
-    <div class="progress-bar hide" slot="progress-bar">
-        <div class="update-bar"></div>
-    </div>
-    <button slot="ar-button" id="ar-button">
-        View in your space
-    </button>
-    <div id="ar-prompt">
-        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
-    </div>
+  <model-viewer src="entr__m_tro.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="0.47">
+    <button class="Hotspot" slot="hotspot-5" data-position="21.678284807366992m 234.17755126953125m -194.41649250550267m" data-normal="0m -1m 0m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-6" data-position="-156.63561309957055m 698.3847689549361m 147.31646540005863m" data-normal="-0.7671014882544568m -0.00025523406739164014m 0.6415257138832149m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-7" data-position="205.08462059639646m 722.387512593391m 161.843994140625m" data-normal="0m 0m 1m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-8" data-position="21.437365431572744m 749.891879829408m -230.56524658203114m" data-normal="0m 0m 1m" data-visibility-attribute="visible"></button>
 </model-viewer>
+
+
 </div>
 
 
@@ -83,7 +81,6 @@
             </section>
 
     <script src="wya.js"></script>
-    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer.min.js"></script>
 
 	</body>
 </html>
