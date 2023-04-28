@@ -32,12 +32,28 @@
       <h3>Which station are you at?</h3><br>
       <p><input type="text" id="name" placeholder="type here"></p>
 
-      <div class="button-style">
-        <button id="station-go">
-            <img src="downward-arrow-1.png">
-                  </button>
-      </div>
-      <div>
+<div>
+  <model-viewer src="entr__m_tro.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1">
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
+</div>
+
+
+
+  <div class="button-style">
+  <button id="station-go">
+  <img src="downward-arrow-1.png">
+  </button>
+  </div>
+    <div>
         <img src="downward-arrow-1.png" class="down-arrow-2">
       </div>
       <div>
@@ -66,8 +82,8 @@
         </div>
             </section>
 
-
-
     <script src="wya.js"></script>
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.0.1/model-viewer.min.js"></script>
+
 	</body>
 </html>
