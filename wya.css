@@ -181,15 +181,15 @@ color: var(--blue);
     display: flex;
     flex-direction: column;
     gap:100px;
+    padding-top:7%;
+
+
+    padding-left: 25%;
+
 }    
 
 #lat-long-container{
     /* padding-top: 10%; */
-}
-
-.lat-long{
-padding-top:7%;
-
 }
 
 .long-number{
@@ -197,12 +197,15 @@ padding-top:7%;
     /* padding-left: 30%;
     padding-right:10%;
     padding-top:70%; */
- transform: translateX(-10px) translateY(70px);
+    /* transform: translateX(-10px) translateY(70px); */
+
+
 }
 
 .lat-number{
     text-align: center;
   transform: translateX(-120px) translateY(10px);
+
 
 }
 
