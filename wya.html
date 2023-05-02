@@ -36,18 +36,6 @@
       <h3>Which station are you at?</h3><br>
       <p><input type="text" id="name" placeholder="type here"></p>
 
-<div>
-  <model-viewer src="entr__m_tro.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="0.47" style="width: 1000px;
-height: 1000px;">
-
-    <button class="Hotspot" slot="hotspot-5" data-position="21.678284807366992m 234.17755126953125m -194.41649250550267m" data-normal="0m -1m 0m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-6" data-position="-156.63561309957055m 698.3847689549361m 147.31646540005863m" data-normal="-0.7671014882544568m -0.00025523406739164014m 0.6415257138832149m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-7" data-position="205.08462059639646m 722.387512593391m 161.843994140625m" data-normal="0m 0m 1m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-8" data-position="21.437365431572744m 749.891879829408m -230.56524658203114m" data-normal="0m 0m 1m" data-visibility-attribute="visible"></button>
-</model-viewer>
-
-
-</div>
-
-
-
   <div class="button-style">
   <button id="station-go">
   <img src="downward-arrow-1.png">
@@ -61,7 +49,6 @@ height: 1000px;">
       </div>
 
     </div>      
-
 
     <section id="lat-long-container">
         <section id="lat-long-wrapper">
@@ -82,6 +69,13 @@ height: 1000px;">
         </div>
             </section>
 
+        <div>
+          <model-viewer src="entr__m_tro.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="0.47" style="width: 1000px;
+        height: 1000px;">
+        
+            <button class="Hotspot" slot="hotspot-5" data-position="21.678284807366992m 234.17755126953125m -194.41649250550267m" data-normal="0m -1m 0m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-6" data-position="-156.63561309957055m 698.3847689549361m 147.31646540005863m" data-normal="-0.7671014882544568m -0.00025523406739164014m 0.6415257138832149m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-7" data-position="205.08462059639646m 722.387512593391m 161.843994140625m" data-normal="0m 0m 1m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-8" data-position="21.437365431572744m 749.891879829408m -230.56524658203114m" data-normal="0m 0m 1m" data-visibility-attribute="visible"></button>
+        </model-viewer>
+        </div>
     <script src="wya.js"></script>
 
 	</body>
