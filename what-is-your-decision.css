@@ -26,6 +26,7 @@ body{
     background-image: url(sky.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
+    padding-bottom: 10%;
 
 }
 
@@ -35,13 +36,13 @@ header{
     font-family: 'Planet Kosmos', sans-serif;
     color: var(--white);
     text-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
-    /* text-shadow: -10px -10px 55px #FFFFFF, 10px 10px 55px #FFFFFF; */
+    /* text-shadow: -5px -5px 15px #FFFFFF, 5px 5px 15px #FFFFFF; */
     font-size: 220px;
     column-gap: 100px;
+    padding-left: 5%;
 }
-
 #your-wrapper{
-    margin-top: -170px;
+    margin-top: -150px;
 }
 .your{
     display: grid;
@@ -51,6 +52,15 @@ header{
     text-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
     font-size: 120px;
 gap: 20px;
+}
+
+.decision{
+    font-family: 'Planet Kosmos', sans-serif;
+    color: var(--white);
+    text-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
+    font-size: 170px;
+    margin-top:-80px;
+    text-align: center;
 }
 
 .choices{
@@ -80,11 +90,3 @@ border-color: transparent;
     color:var(--blue);
 }
 
-.decision{
-    font-family: 'Planet Kosmos', sans-serif;
-    color: var(--white);
-    text-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
-    font-size: 170px;
-    margin-top:-120px;
-    text-align: center;
-}
