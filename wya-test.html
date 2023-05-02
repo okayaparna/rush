@@ -52,15 +52,19 @@
 
 
     <div class="station-model">
-      <model-viewer src="entr__m_tro.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="0.47" style="width: 1000px;
-    height: 1000px;" class="filler-station-model">
-    
-        <button class="Hotspot" slot="hotspot-5" data-position="21.678284807366992m 234.17755126953125m -194.41649250550267m" data-normal="0m -1m 0m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-6" data-position="-156.63561309957055m 698.3847689549361m 147.31646540005863m" data-normal="-0.7671014882544568m -0.00025523406739164014m 0.6415257138832149m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-7" data-position="205.08462059639646m 722.387512593391m 161.843994140625m" data-normal="0m 0m 1m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-8" data-position="21.437365431572744m 749.891879829408m -230.56524658203114m" data-normal="0m 0m 1m" data-visibility-attribute="visible" style="width: 1000px;
-        height: 1000px;" class="e110thst-model"></button>
-
-        <model-viewer src="anomaly-logo-3d.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1">
+        <model-viewer src="entr__m_tro.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls poster="poster.webp" shadow-intensity="1" exposure="1.18" shadow-softness="1" auto-rotate min-camera-orbit="auto auto 2479m" min-field-of-view="30deg">
+            <button class="Hotspot" slot="hotspot-1" data-position="-150.1033294437634m 245.8472955334463m -186.5228826836551m" data-normal="-0.9996117801128057m 0.0009605616002245081m 0.027845401435784248m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-2" data-position="192.62116524331827m 234.26620086853836m -203.5604333033031m" data-normal="0.009129359877456552m -0.9998701590655776m 0.013278546547130921m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-3" data-position="-146.59013521793185m 227.00434225403637m 139.28806706337696m" data-normal="0m -0.9999159129333851m 0.012967924374980967m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-4" data-position="206.5811068619289m 226.98310866925044m 137.65081204073294m" data-normal="0m -0.9999159129333851m 0.012967924374980967m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-5" data-position="196.67222743927204m 718.4495481958515m 386.201683753854m" data-normal="-0.4511507890061559m -0.4378123071072357m 0.7776781785060981m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-6" data-position="-151.9573475601634m 714.3206214139891m 386.55866576579865m" data-normal="0m -0.6228657923602366m 0.7823287063041051m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-7" data-position="199.05749443856863m 699.9086195714144m -220.53421634028155m" data-normal="-0.9998404738728965m 0m -0.0178613214970776m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-8" data-position="-88.09892214930449m 719.1016845703127m 45.7811164942018m" data-normal="0m -1m 0m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-9" data-position="198.10795250683668m 718.337036132813m 150.5984274608312m" data-normal="0m -1m 0m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-10" data-position="-155.1311513300623m 716.5508094468646m 147.69532054545778m" data-normal="0.21384106227279281m 0.00007115031665483069m 0.9768684635219197m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-11" data-position="-120.72877237957347m 234.17755126953125m -204.71607338194207m" data-normal="0m -1m 0m" data-visibility-attribute="visible"></button><button class="Hotspot" slot="hotspot-12" data-position="13.53580074214159m 235.3854010079563m 3.8409982440925603m" data-normal="0.009129359877456559m -0.9998701590655779m 0.01327854654713093m" data-visibility-attribute="visible"></button>
             <div class="progress-bar hide" slot="progress-bar">
                 <div class="update-bar"></div>
+            </div>
+            <button slot="ar-button" id="ar-button">
+                View in your space
+            </button>
+            <div id="ar-prompt">
+                <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+            </div>
+        </model-viewer>
+        
             </div>
     </model-viewer>
     </div>
