@@ -6,7 +6,7 @@
 --headin-1-over-there: 'Over There';
 --heading-2-kosmos: 'Planet Kosmos', sans-serif;
   }
-  /* text-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #FFFFFF;
+  /*     text-shadow: -10px -10px 55px #FFFFFF, 10px 10px 55px #FFFFFF;
   text-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
     font-family: 'Michroma'; 
         font-family: 'Over There';
@@ -21,27 +21,36 @@ a:hover{
     transition: 0.3s;
     color: var(--blue);
 }
+
+body{
+    background-image: url(sky.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 header{
     display: grid;
     grid-template-columns: 1fr 1fr;
     font-family: 'Planet Kosmos', sans-serif;
     color: var(--white);
     text-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
+    /* text-shadow: -10px -10px 55px #FFFFFF, 10px 10px 55px #FFFFFF; */
     font-size: 220px;
     column-gap: 100px;
 }
 
 #your-wrapper{
-    margin-top: -100px;
+    margin-top: -170px;
 }
 .your{
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1.25fr 0.75fr;
     font-family: 'Planet Kosmos', sans-serif;
     color: var(--white);
     text-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
-    font-size: 200px;
-    gap: 100px;
+    font-size: 120px;
+gap: 20px;
 }
 
 .choices{
@@ -51,8 +60,6 @@ grid-template-columns: 1fr 1fr;
 gap:50px;
 
 }
-
-
 
 #button-style{
     background-color: var(--blue);
@@ -73,9 +80,11 @@ border-color: transparent;
     color:var(--blue);
 }
 
-footer{
+.decision{
     font-family: 'Planet Kosmos', sans-serif;
     color: var(--white);
     text-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
-    font-size: 220px;
+    font-size: 170px;
+    margin-top:-120px;
+    text-align: center;
 }
