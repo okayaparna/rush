@@ -1,0 +1,20 @@
+  
+:root {
+    --blue: #179DFE;
+    --white: white;
+  }
+  /* text-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #FFFFFF;
+    font-family: 'Michroma'; 
+        font-family: 'Over There';
+        font-family: 'Planet Kosmos', sans-serif;
+        */
+
+header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-family: 'Planet Kosmos', sans-serif;
+    color: var(--white);
+    text-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
+    font-size: 220px;
+    gap: 100px;
+}
