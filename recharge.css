@@ -40,8 +40,8 @@ header{
     width: 60px;
     height: 50px;
     border-radius: 50px;
-    max-width:960px;
-    margin-left: 20px;
+    max-width:950px;
+    margin-left: 10px;
 }
 
 #drag-bar-back-wrapper{
@@ -62,7 +62,7 @@ box-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
 .charge-text{
     font-family: 'Planet Kosmos', sans-serif;
     color: var(--blue);
-    font-size: 40px;
+    font-size: 70px;
 
 }
 
@@ -71,6 +71,5 @@ display: flex;
 justify-content: center;
 align-content: center;
 padding-top: 10%;
-
 
 }
