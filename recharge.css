@@ -40,7 +40,7 @@ header{
     width: 60px;
     height: 50px;
     border-radius: 50px;
-    max-width:950px;
+    max-width:960px;
     margin-left: 10px;
 }
 
@@ -73,3 +73,43 @@ align-content: center;
 padding-top: 10%;
 
 }
+
+button {
+    background-color:  var(--light-yellow);
+    color: var(--dark-blue);
+    font-family: 'Sigmar';
+    font-size: 27px;
+    border: 2px solid var(--dark-blue);
+    border-radius: 6px;
+    outline: none;
+    padding: 15px 30px;
+    line-height: 1;
+    cursor: pointer;
+    transition: background-color 200ms, color 200ms;
+  }
+
+#go-arrow{
+    display:flex;
+    justify-content: center;
+}
+
+#station-go{
+    z-index: 100;
+    animation: blinking-1 1s infinite;
+}
+
+.button-style{
+    z-index: 100;
+}
+
+@keyframes blinking-1 {
+    0% {
+     opacity:100%;
+    }
+    50%{
+        opacity: 60%;
+    }
+    100% {
+      opacity: 100%;
+    }
+  }
