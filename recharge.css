@@ -1,0 +1,76 @@
+:root {
+    --blue: #179DFE;;
+    --white: white;
+  }
+  
+/*
+ text-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #FFFFFF;
+font-family: 'Michroma'; 
+font-family: 'Over There';
+font-family: 'Planet Kosmos', sans-serif;
+*/
+
+header{
+    font-family: 'Over There';
+    color: var(--blue);
+    font-size: 128px;
+    text-align: center;
+}
+
+#drag-text-wrapper{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.drag-text{
+    font-family: 'Michroma'; 
+    color: var(--blue);
+    font-size: 30px;
+}
+
+.drag-bar-back{
+    background-color: rgb(228, 228, 228);
+    width: 1000px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.drag-bar{
+    background-color: var(--blue);
+    width: 60px;
+    height: 50px;
+    border-radius: 50px;
+    max-width:960px;
+    margin-left: 20px;
+}
+
+#drag-bar-back-wrapper{
+background-color: rgb(255, 255, 255);
+border-radius: 100px;
+padding: 5%;
+width: 1000px;
+height: 50px;
+box-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
+
+}
+
+#drag-items{
+    transform: translateX(10%);
+    padding-top: 5%;
+}
+
+.charge-text{
+    font-family: 'Planet Kosmos', sans-serif;
+    color: var(--blue);
+    font-size: 40px;
+
+}
+
+#charge-wrapper{
+display: flex;
+justify-content: center;
+align-content: center;
+padding-top: 10%;
+
+
+}
