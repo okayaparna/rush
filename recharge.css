@@ -10,6 +10,11 @@ font-family: 'Over There';
 font-family: 'Planet Kosmos', sans-serif;
 */
 
+body{
+    background: linear-gradient(180deg, var(--white) 0%, var(--blue) 100%);
+
+}
+
 header{
     font-family: 'Over There';
     color: var(--blue);
@@ -61,7 +66,7 @@ box-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
 
 .charge-text{
     font-family: 'Planet Kosmos', sans-serif;
-    color: var(--blue);
+    color: var(--white);
     font-size: 70px;
 
 }
@@ -91,6 +96,13 @@ button {
 #go-arrow{
     display:flex;
     justify-content: center;
+    padding-top: 10%;
+}
+
+.lets-go-text{
+    font-family: 'Over There';
+font-size: 100px;
+color: var(--white);
 }
 
 #station-go{
