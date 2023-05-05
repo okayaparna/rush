@@ -33,6 +33,21 @@ header{
     font-size: 30px;
 }
 
+#charge-status-wrapper{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 5%;
+}
+
+.charge-status{
+color: var(--blue);
+font-family: 'Michroma'; 
+text-align: center;
+font-size: 40px;
+padding-top: 70px;
+
+}
+
 .drag-bar-back{
     background-color: rgb(228, 228, 228);
     width: 1000px;
@@ -61,13 +76,13 @@ box-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
 
 #drag-items{
     transform: translateX(10%);
-    padding-top: 5%;
 }
 
 .charge-text{
     font-family: 'Planet Kosmos', sans-serif;
     color: var(--white);
     font-size: 70px;
+    text-align: center;
 
 }
 
