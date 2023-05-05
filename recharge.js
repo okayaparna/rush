@@ -45,7 +45,18 @@ dragBar.addEventListener('mousemove', function(event) {
 });
 
 
+// pop-up
 
+const popUpText = document.querySelector('.pop-up-text');
+
+dragBar.addEventListener('mousedown', function() {
+  document.addEventListener('mouseup', mouseUpHandler);
+});
+
+function mouseUpHandler() {
+  popUpText.style.display = 'block';
+  document.removeEventListener('mouseup', mouseUpHandler);
+}
 
   
   
