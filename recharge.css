@@ -36,7 +36,11 @@ header{
 #charge-status-wrapper{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding: 5%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 3%;
+    gap: 20px;
 }
 
 .charge-status{
@@ -80,9 +84,15 @@ box-shadow: -20px -20px 50px var(--blue), 20px 20px 50px var(--blue);
 
 .charge-text{
     font-family: 'Planet Kosmos', sans-serif;
-    color: var(--white);
+    color: var(--blue);
     font-size: 70px;
     text-align: center;
+    background-color: var(--white);
+    border-radius: 75px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    /* box-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #FFFFFF; */
 
 }
 
