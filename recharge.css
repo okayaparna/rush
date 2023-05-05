@@ -8,11 +8,14 @@
 font-family: 'Michroma'; 
 font-family: 'Over There';
 font-family: 'Planet Kosmos', sans-serif;
+background: linear-gradient(180deg, var(--white) 0%, var(--blue) 100%);
+
 */
 
 body{
     background: linear-gradient(180deg, var(--white) 0%, var(--blue) 100%);
-padding-bottom: 10%;
+background-size: cover;
+background-repeat:repeat-x;
 }
 
 header{
@@ -170,8 +173,7 @@ transform: translateX(50px);
 
 #pop-up-wrapper{
     width: 500px;
-    height: 700px;
-    transform: translateX(50%) translateY(-30%);
+    height: 200px;
 }
 
 a{
@@ -186,3 +188,35 @@ a{
     padding: 2%;
     text-align: center;
 }
+
+/* splash screen */
+
+.splash-header {
+    height : 90%;
+    color : var(--blue);
+    font-family: 'Over There';
+    font-size : 70px;
+    display : flex;
+    justify-content: center;
+    align-items : center;
+  }
+  
+.splash-screen{
+display: block;
+background: linear-gradient(180deg, var(--white) 0%, var(--blue) 100%);
+width: 1000px;
+height: 1000px;
+padding: 10%;
+
+}
+
+.charge-number{
+    font-family: 'Planet Kosmos', sans-serif;
+    font-size: 100px;
+    color: var(--blue);
+}
+
+.hidden {
+    display: none;
+  }
+
