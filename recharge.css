@@ -16,6 +16,7 @@ body{
     background: linear-gradient(180deg, var(--white) 0%, var(--blue) 100%);
 background-size: cover;
 background-repeat:repeat-x;
+height: 1200px;
 }
 
 header{
@@ -174,6 +175,8 @@ transform: translateX(50px);
 #pop-up-wrapper{
     width: 500px;
     height: 200px;
+    transform: translateX(50%) translateY(-60%);
+
 }
 
 a{
