@@ -207,13 +207,7 @@ background: linear-gradient(180deg, var(--white) 0%, var(--blue) 100%);
 width: 1000px;
 height: 1000px;
 padding: 10%;
-
-}
-
-.charge-number{
-    font-family: 'Planet Kosmos', sans-serif;
-    font-size: 100px;
-    color: var(--blue);
+margin-top: -20%;
 }
 
 .hidden {
