@@ -3,7 +3,11 @@
     --white: white;
   }
   
-  /* text-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #FFFFFF; */
+  /* text-shadow: -20px -20px 50px #FFFFFF, 20px 20px 50px #FFFFFF;
+    font-family: 'Michroma'; 
+        font-family: 'Over There';
+        font-family: 'Planet Kosmos', sans-serif;
+        */
 
   * {
     box-sizing: border-box;
@@ -32,7 +36,6 @@
     top: 0;
     margin: 0 0 1em;
     padding-top: 1em;
-    font-family: 'Over There', sans-serif;
     text-transform: uppercase;
 
     font-family: 'Over There';
@@ -117,9 +120,6 @@ color: var(--blue);
     letter-spacing: -0.02em;
     font-size: 30px;
   }
-
-
-
 
 .lat-long-bg{
     background-image: url(latitude-longitude.png);
@@ -282,4 +282,11 @@ transform: translateX(-180px) translateY(10px);
 }
 
 
+.left-arrow{
+  opacity: 30%;
+  margin-top: -150px;
+  z-index: -100;
+  width: 350px;
 
+  animation: blinking-2 1s infinite;
+}
