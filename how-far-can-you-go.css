@@ -338,9 +338,7 @@ transform: translateX(-180px) translateY(10px);
 
 .left-arrow{
   opacity: 100%;
-  margin-top: -150px;
   z-index: -100;
   width: 350px;
-
   animation: blinking-2 1s infinite;
 }
