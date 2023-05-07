@@ -111,8 +111,6 @@ font-size: 150px;
 color: var(--blue);
 -webkit-text-stroke-width: 3px;
   -webkit-text-stroke-color: white;
-
-
   }
   
   h3 {
@@ -283,7 +281,7 @@ transform: translateX(-180px) translateY(10px);
 
 
 .left-arrow{
-  opacity: 30%;
+  opacity: 100%;
   margin-top: -150px;
   z-index: -100;
   width: 350px;
