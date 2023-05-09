@@ -327,18 +327,13 @@ transform: translateX(-180px) translateY(10px);
   }
 
 
-@media(max-width:1020px){
-
-    .long-number{
-        padding-top:0;
-        margin-top: -55px;
-    }
-
-}
-
 .left-arrow{
   opacity: 100%;
   z-index: -100;
   width: 350px;
   animation: blinking-2 1s infinite;
+}
+
+#map{
+    padding-top: 50%;
 }
