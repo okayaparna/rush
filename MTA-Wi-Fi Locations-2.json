@@ -1,0 +1,737 @@
+[
+  {
+    "Station Name": "103rd St",
+    "lat": 40.799446,
+    "lng": -73.968379
+  },
+  {
+    "Station Name": "103rd St",
+    "lat": 40.796092,
+    "lng": -73.961454
+  },
+  {
+    "Station Name": "103rd St",
+    "lat": 40.7906,
+    "lng": -73.947478
+  },
+  {
+    "Station Name": "110th St",
+    "lat": 40.803967,
+    "lng": -73.966847
+  },
+  {
+    "Station Name": "110th St",
+    "lat": 40.79502,
+    "lng": -73.94425
+  },
+  {
+    "Station Name": "110th St/Central Park N",
+    "lat": 40.799075,
+    "lng": -73.951822
+  },
+  {
+    "Station Name": "110thSt",
+    "lat": 40.800605,
+    "lng": -73.958159
+  },
+  {
+    "Station Name": "116th St",
+    "lat": 40.807722,
+    "lng": -73.96411
+  },
+  {
+    "Station Name": "116th St",
+    "lat": 40.798629,
+    "lng": -73.941617
+  },
+  {
+    "Station Name": "116th St",
+    "lat": 40.802098,
+    "lng": -73.949625
+  },
+  {
+    "Station Name": "116th St",
+    "lat": 40.805085,
+    "lng": -73.954882
+  },
+  {
+    "Station Name": "125th St",
+    "lat": 40.807745,
+    "lng": -73.945502
+  },
+  {
+    "Station Name": "125th St",
+    "lat": 40.804138,
+    "lng": -73.937594
+  },
+  {
+    "Station Name": "125th St",
+    "lat": 40.811109,
+    "lng": -73.952343
+  },
+  {
+    "Station Name": "135th St",
+    "lat": 40.814229,
+    "lng": -73.94077
+  },
+  {
+    "Station Name": "135th St",
+    "lat": 40.817894,
+    "lng": -73.947649
+  },
+  {
+    "Station Name": "137th St",
+    "lat": 40.822008,
+    "lng": -73.953676
+  },
+  {
+    "Station Name": "14 St",
+    "lat": 40.737826,
+    "lng": -74.000201
+  },
+  {
+    "Station Name": "14 St",
+    "lat": 40.740893,
+    "lng": -74.00169
+  },
+  {
+    "Station Name": "14 St",
+    "lat": 40.738228,
+    "lng": -73.996209
+  },
+  {
+    "Station Name": "145th St",
+    "lat": 40.826551,
+    "lng": -73.95036
+  },
+  {
+    "Station Name": "145th St",
+    "lat": 40.820421,
+    "lng": -73.936245
+  },
+  {
+    "Station Name": "145th St mezzanine",
+    "lat": 40.824783,
+    "lng": -73.944216
+  },
+  {
+    "Station Name": "148th St",
+    "lat": 40.82388,
+    "lng": -73.93647
+  },
+  {
+    "Station Name": "14th St/Union Square",
+    "lat": 40.734673,
+    "lng": -73.989951
+  },
+  {
+    "Station Name": "155th St",
+    "lat": 40.830135,
+    "lng": -73.938209
+  },
+  {
+    "Station Name": "155th St",
+    "lat": 40.830518,
+    "lng": -73.941514
+  },
+  {
+    "Station Name": "157th St",
+    "lat": 40.834041,
+    "lng": -73.94489
+  },
+  {
+    "Station Name": "163rd St",
+    "lat": 40.836013,
+    "lng": -73.939892
+  },
+  {
+    "Station Name": "168th St",
+    "lat": 40.840719,
+    "lng": -73.939561
+  },
+  {
+    "Station Name": "168th St-Broadway",
+    "lat": 40.840556,
+    "lng": -73.940133
+  },
+  {
+    "Station Name": "175th St",
+    "lat": 40.847391,
+    "lng": -73.939704
+  },
+  {
+    "Station Name": "181st St.",
+    "lat": 40.851695,
+    "lng": -73.937969
+  },
+  {
+    "Station Name": "181st St.",
+    "lat": 40.849505,
+    "lng": -73.933596
+  },
+  {
+    "Station Name": "18th St",
+    "lat": 40.74104,
+    "lng": -73.997871
+  },
+  {
+    "Station Name": "190th St",
+    "lat": 40.859022,
+    "lng": -73.93418
+  },
+  {
+    "Station Name": "191st St",
+    "lat": 40.855225,
+    "lng": -73.929412
+  },
+  {
+    "Station Name": "1st Ave",
+    "lat": 40.730953,
+    "lng": -73.981628
+  },
+  {
+    "Station Name": "207th St",
+    "lat": 40.868072,
+    "lng": -73.919899
+  },
+  {
+    "Station Name": "23 St",
+    "lat": 40.745906,
+    "lng": -73.998041
+  },
+  {
+    "Station Name": "23rd St",
+    "lat": 40.739864,
+    "lng": -73.986599
+  },
+  {
+    "Station Name": "23rd St",
+    "lat": 40.741303,
+    "lng": -73.989344
+  },
+  {
+    "Station Name": "23rd St",
+    "lat": 40.744081,
+    "lng": -73.995657
+  },
+  {
+    "Station Name": "23rdSt",
+    "lat": 40.742878,
+    "lng": -73.992821
+  },
+  {
+    "Station Name": "28th St",
+    "lat": 40.747215,
+    "lng": -73.993365
+  },
+  {
+    "Station Name": "28th St",
+    "lat": 40.74307,
+    "lng": -73.984264
+  },
+  {
+    "Station Name": "28th St",
+    "lat": 40.745494,
+    "lng": -73.988691
+  },
+  {
+    "Station Name": "2nd Ave",
+    "lat": 40.723402,
+    "lng": -73.989938
+  },
+  {
+    "Station Name": "33rd St",
+    "lat": 40.746081,
+    "lng": -73.982076
+  },
+  {
+    "Station Name": "34 St",
+    "lat": 40.7558389,
+    "lng": -74.0019611
+  },
+  {
+    "Station Name": "34th St",
+    "lat": 40.752287,
+    "lng": -73.993391
+  },
+  {
+    "Station Name": "34th St",
+    "lat": 40.749719,
+    "lng": -73.987823
+  },
+  {
+    "Station Name": "34th St",
+    "lat": 40.749567,
+    "lng": -73.98795
+  },
+  {
+    "Station Name": "34th St",
+    "lat": 40.750373,
+    "lng": -73.991057
+  },
+  {
+    "Station Name": "3rd Ave",
+    "lat": 40.732849,
+    "lng": -73.986122
+  },
+  {
+    "Station Name": "42nd St",
+    "lat": 40.757308,
+    "lng": -73.989735
+  },
+  {
+    "Station Name": "42nd St",
+    "lat": 40.754222,
+    "lng": -73.984569
+  },
+  {
+    "Station Name": "47-50 St Rock Ctr",
+    "lat": 40.758663,
+    "lng": -73.981329
+  },
+  {
+    "Station Name": "49th St",
+    "lat": 40.759901,
+    "lng": -73.984139
+  },
+  {
+    "Station Name": "50th St",
+    "lat": 40.761728,
+    "lng": -73.983849
+  },
+  {
+    "Station Name": "50th St",
+    "lat": 40.762456,
+    "lng": -73.985984
+  },
+  {
+    "Station Name": "51st St",
+    "lat": 40.757107,
+    "lng": -73.97192
+  },
+  {
+    "Station Name": "57th St",
+    "lat": 40.763971,
+    "lng": -73.977451
+  },
+  {
+    "Station Name": "57th St",
+    "lat": 40.764664,
+    "lng": -73.980658
+  },
+  {
+    "Station Name": "59th St",
+    "lat": 40.768296,
+    "lng": -73.981736
+  },
+  {
+    "Station Name": "59th St",
+    "lat": 40.762526,
+    "lng": -73.967967
+  },
+  {
+    "Station Name": "59th St",
+    "lat": 40.768247,
+    "lng": -73.981929
+  },
+  {
+    "Station Name": "5th Ave",
+    "lat": 40.760167,
+    "lng": -73.975224
+  },
+  {
+    "Station Name": "5th Ave",
+    "lat": 40.764811,
+    "lng": -73.973347
+  },
+  {
+    "Station Name": "5th Ave",
+    "lat": 40.753821,
+    "lng": -73.981963
+  },
+  {
+    "Station Name": "6 Av",
+    "lat": 40.737335,
+    "lng": -73.996786
+  },
+  {
+    "Station Name": "66th St",
+    "lat": 40.77344,
+    "lng": -73.982209
+  },
+  {
+    "Station Name": "68th St",
+    "lat": 40.768141,
+    "lng": -73.96387
+  },
+  {
+    "Station Name": "72 St",
+    "lat": 40.768775,
+    "lng": -73.958386
+  },
+  {
+    "Station Name": "72nd St",
+    "lat": 40.778453,
+    "lng": -73.98197
+  },
+  {
+    "Station Name": "72nd St",
+    "lat": 40.775594,
+    "lng": -73.97641
+  },
+  {
+    "Station Name": "77th St",
+    "lat": 40.77362,
+    "lng": -73.959874
+  },
+  {
+    "Station Name": "79th St",
+    "lat": 40.783934,
+    "lng": -73.979917
+  },
+  {
+    "Station Name": "7th Ave",
+    "lat": 40.762862,
+    "lng": -73.981637
+  },
+  {
+    "Station Name": "8 Av",
+    "lat": 40.739777,
+    "lng": -74.002578
+  },
+  {
+    "Station Name": "81st St",
+    "lat": 40.781433,
+    "lng": -73.972143
+  },
+  {
+    "Station Name": "86 St",
+    "lat": 40.777925,
+    "lng": -73.951753
+  },
+  {
+    "Station Name": "86th St",
+    "lat": 40.779492,
+    "lng": -73.955589
+  },
+  {
+    "Station Name": "86th St",
+    "lat": 40.785868,
+    "lng": -73.968916
+  },
+  {
+    "Station Name": "86th St",
+    "lat": 40.788644,
+    "lng": -73.976218
+  },
+  {
+    "Station Name": "8th st",
+    "lat": 40.730328,
+    "lng": -73.992629
+  },
+  {
+    "Station Name": "96 St",
+    "lat": 40.784267,
+    "lng": -73.947114
+  },
+  {
+    "Station Name": "96th St",
+    "lat": 40.785672,
+    "lng": -73.95107
+  },
+  {
+    "Station Name": "96th St",
+    "lat": 40.791644,
+    "lng": -73.964694
+  },
+  {
+    "Station Name": "96th St",
+    "lat": 40.793919,
+    "lng": -73.972323
+  },
+  {
+    "Station Name": "Astor Place",
+    "lat": 40.730054,
+    "lng": -73.99107
+  },
+  {
+    "Station Name": "Bleecker St",
+    "lat": 40.725915,
+    "lng": -73.994659
+  },
+  {
+    "Station Name": "Bowery",
+    "lat": 40.72028,
+    "lng": -73.993915
+  },
+  {
+    "Station Name": "Bowling Green",
+    "lat": 40.704817,
+    "lng": -74.014065
+  },
+  {
+    "Station Name": "Broad ST",
+    "lat": 40.706476,
+    "lng": -74.011056
+  },
+  {
+    "Station Name": "Broadwav-Lafayette",
+    "lat": 40.725297,
+    "lng": -73.996204
+  },
+  {
+    "Station Name": "Broadway-Nassau",
+    "lat": 40.710197,
+    "lng": -74.007691
+  },
+  {
+    "Station Name": "Brooklyn Bridge",
+    "lat": 40.713065,
+    "lng": -74.004131
+  },
+  {
+    "Station Name": "Canal St",
+    "lat": 40.720824,
+    "lng": -74.005229
+  },
+  {
+    "Station Name": "Canal St",
+    "lat": 40.718092,
+    "lng": -73.999892
+  },
+  {
+    "Station Name": "Canal St",
+    "lat": 40.718803,
+    "lng": -74.000193
+  },
+  {
+    "Station Name": "Canal St",
+    "lat": 40.722854,
+    "lng": -74.006277
+  },
+  {
+    "Station Name": "Canal St (LL)",
+    "lat": 40.718383,
+    "lng": -74.00046
+  },
+  {
+    "Station Name": "Canal St (UL)",
+    "lat": 40.719527,
+    "lng": -74.001775
+  },
+  {
+    "Station Name": "Chambers St",
+    "lat": 40.713243,
+    "lng": -74.003401
+  },
+  {
+    "Station Name": "Chambers St",
+    "lat": 40.714111,
+    "lng": -74.008585
+  },
+  {
+    "Station Name": "Chambers St",
+    "lat": 40.715478,
+    "lng": -74.009266
+  },
+  {
+    "Station Name": "Christopher St",
+    "lat": 40.733422,
+    "lng": -74.002906
+  },
+  {
+    "Station Name": "City Hall",
+    "lat": 40.713282,
+    "lng": -74.006978
+  },
+  {
+    "Station Name": "Cortland St",
+    "lat": 40.711835,
+    "lng": -74.012188
+  },
+  {
+    "Station Name": "Cortland St",
+    "lat": 40.710688,
+    "lng": -74.011029
+  },
+  {
+    "Station Name": "Delancey St",
+    "lat": 40.718611,
+    "lng": -73.988114
+  },
+  {
+    "Station Name": "Dyckman St",
+    "lat": 40.865491,
+    "lng": -73.927271
+  },
+  {
+    "Station Name": "East Broadway",
+    "lat": 40.713715,
+    "lng": -73.990173
+  },
+  {
+    "Station Name": "Essex St",
+    "lat": 40.718315,
+    "lng": -73.987437
+  },
+  {
+    "Station Name": "Franklin St",
+    "lat": 40.719318,
+    "lng": -74.006886
+  },
+  {
+    "Station Name": "Fulton St",
+    "lat": 40.710374,
+    "lng": -74.007582
+  },
+  {
+    "Station Name": "Fulton St",
+    "lat": 40.710368,
+    "lng": -74.009509
+  },
+  {
+    "Station Name": "Fulton St",
+    "lat": 40.709416,
+    "lng": -74.006571
+  },
+  {
+    "Station Name": "Fulton St Trn. Ctr.",
+    "lat": 40.71417,
+    "lng": -73.999153
+  },
+  {
+    "Station Name": "Grand Central",
+    "lat": 40.751431,
+    "lng": -73.976041
+  },
+  {
+    "Station Name": "Grand Central",
+    "lat": 40.752769,
+    "lng": -73.979189
+  },
+  {
+    "Station Name": "Grand Central",
+    "lat": 40.751776,
+    "lng": -73.976848
+  },
+  {
+    "Station Name": "Grand St.",
+    "lat": 40.718267,
+    "lng": -73.993753
+  },
+  {
+    "Station Name": "Houston St",
+    "lat": 40.728251,
+    "lng": -74.005367
+  },
+  {
+    "Station Name": "Lexington Ave",
+    "lat": 40.757552,
+    "lng": -73.969055
+  },
+  {
+    "Station Name": "Lexington Ave",
+    "lat": 40.76266,
+    "lng": -73.967258
+  },
+  {
+    "Station Name": "Lexington Ave",
+    "lat": 40.76463,
+    "lng": -73.966115
+  },
+  {
+    "Station Name": "Park Place",
+    "lat": 40.713051,
+    "lng": -74.008811
+  },
+  {
+    "Station Name": "Prince St",
+    "lat": 40.724329,
+    "lng": -73.997702
+  },
+  {
+    "Station Name": "Rector St",
+    "lat": 40.70722,
+    "lng": -74.013342
+  },
+  {
+    "Station Name": "Rector St",
+    "lat": 40.707513,
+    "lng": -74.013783
+  },
+  {
+    "Station Name": "South Ferry",
+    "lat": 40.701542,
+    "lng": -74.013506
+  },
+  {
+    "Station Name": "Spring St",
+    "lat": 40.722301,
+    "lng": -73.997141
+  },
+  {
+    "Station Name": "Spring St.",
+    "lat": 40.726227,
+    "lng": -74.003739
+  },
+  {
+    "Station Name": "",
+    "lat": "",
+    "lng": ""
+  },
+  {
+    "Station Name": "Times Square",
+    "lat": 40.754672,
+    "lng": -73.986754
+  },
+  {
+    "Station Name": "Times Square",
+    "lat": 40.755477,
+    "lng": -73.987691
+  },
+  {
+    "Station Name": "Times Square",
+    "lat": 40.755983,
+    "lng": -73.986229
+  },
+  {
+    "Station Name": "Times Square",
+    "lat": 40.75529,
+    "lng": -73.987495
+  },
+  {
+    "Station Name": "Union Square",
+    "lat": 40.735736,
+    "lng": -73.990568
+  },
+  {
+    "Station Name": "Union Square",
+    "lat": 40.734789,
+    "lng": -73.99073
+  },
+  {
+    "Station Name": "W. 4th St",
+    "lat": 40.732338,
+    "lng": -74.000495
+  },
+  {
+    "Station Name": "Wall St",
+    "lat": 40.707557,
+    "lng": -74.011862
+  },
+  {
+    "Station Name": "Wall St",
+    "lat": 40.706821,
+    "lng": -74.0091
+  },
+  {
+    "Station Name": "Whitehall St",
+    "lat": 40.703087,
+    "lng": -74.012994
+  },
+  {
+    "Station Name": "World Trade Center",
+    "lat": 40.712582,
+    "lng": -74.009781
+  }
+]
